@@ -13,7 +13,7 @@ public class MyFristClass {
     }
 
     public static void main(String args[]) {
-        System.out.print(333);
+        System.out.print(33322);
     }
 
 }
